@@ -1,86 +1,33 @@
-Contribution: 2014-06-06 20:00
+# ToDo App with Vue 3 Composition API
 
-Contribution: 2014-06-06 20:01
+> A simple ToDo application using Vue 3 Composition API.
 
-Contribution: 2014-06-06 20:02
+### Demo: [https://todo-app.codeeye.vercel.app/](https://todo-app.burakgur.vercel.app/)
 
-Contribution: 2014-06-06 20:03
+## Project setup
 
-Contribution: 2014-06-10 20:00
+```
+npm install
+```
 
-Contribution: 2014-06-10 20:01
+### Compiles and hot-reloads for development
 
-Contribution: 2014-06-11 20:00
+```
+npm run serve
+```
 
-Contribution: 2014-06-11 20:01
+### Compiles and minifies for production
 
-Contribution: 2014-06-11 20:02
+```
+npm run build
+```
 
-Contribution: 2014-06-13 20:00
+### Lints and fixes files
 
-Contribution: 2014-06-13 20:01
+```
+npm run lint
+```
 
-Contribution: 2014-06-16 20:00
+### Customize configuration
 
-Contribution: 2014-06-16 20:01
-
-Contribution: 2014-06-16 20:02
-
-Contribution: 2014-06-16 20:03
-
-Contribution: 2014-06-19 20:00
-
-Contribution: 2014-06-19 20:01
-
-Contribution: 2014-06-19 20:02
-
-Contribution: 2014-06-19 20:03
-
-Contribution: 2014-06-19 20:04
-
-Contribution: 2014-06-25 20:00
-
-Contribution: 2014-06-26 20:00
-
-Contribution: 2014-06-26 20:01
-
-Contribution: 2014-06-26 20:02
-
-Contribution: 2014-06-30 20:00
-
-Contribution: 2014-07-01 20:00
-
-Contribution: 2014-07-02 20:00
-
-Contribution: 2014-07-02 20:01
-
-Contribution: 2014-07-02 20:02
-
-Contribution: 2014-07-02 20:03
-
-Contribution: 2014-07-09 20:00
-
-Contribution: 2014-07-14 20:00
-
-Contribution: 2014-07-14 20:01
-
-Contribution: 2014-07-14 20:02
-
-Contribution: 2014-07-14 20:03
-
-Contribution: 2014-07-16 20:00
-
-Contribution: 2014-07-17 20:00
-
-Contribution: 2014-07-17 20:01
-
-Contribution: 2014-07-17 20:02
-
-Contribution: 2014-07-22 20:00
-
-Contribution: 2014-07-22 20:01
-
-Contribution: 2014-07-22 20:02
-
-Contribution: 2014-07-22 20:03
-
+See [Configuration Reference](https://cli.vuejs.org/config/).
